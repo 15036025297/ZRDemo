@@ -1,0 +1,23 @@
+PODS:
+  - CHRoute (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CHRoute (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CHRoute:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CHRoute: 71ca21fdb4aa3657d227eebdf674929e14b294d9
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: adeaeee43c71b241d947a2d2aba1ab87b34a5b64
+
+COCOAPODS: 1.4.0

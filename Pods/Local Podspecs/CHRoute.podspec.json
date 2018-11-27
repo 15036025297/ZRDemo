@@ -1,0 +1,22 @@
+{
+  "name": "CHRoute",
+  "version": "0.1.0",
+  "summary": "A short description of CHRoute.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/15036025297/CHRoute",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "15036025297": "15036025297@163.com"
+  },
+  "source": {
+    "git": "https://github.com/15036025297/CHRoute.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CHRoute/Classes/**/*"
+}

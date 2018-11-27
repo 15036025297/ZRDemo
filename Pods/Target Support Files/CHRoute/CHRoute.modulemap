@@ -1,0 +1,6 @@
+framework module CHRoute {
+  umbrella header "CHRoute-umbrella.h"
+
+  export *
+  module * { export * }
+}
